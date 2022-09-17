@@ -5,9 +5,6 @@
 
 **Time taken :**  9 hrs
 
-My name is Shivam Sharma, and this is the ninth project and it is landing page of web service provider.
-
-
 
 **Key learning :** 
 
